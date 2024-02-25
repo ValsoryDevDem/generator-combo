@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/generator-combo/static/css/main.755e0a58.css",
+    "main.js": "/generator-combo/static/js/main.458cc83c.js",
+    "index.html": "/generator-combo/index.html",
+    "main.755e0a58.css.map": "/generator-combo/static/css/main.755e0a58.css.map",
+    "main.458cc83c.js.map": "/generator-combo/static/js/main.458cc83c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.755e0a58.css",
+    "static/js/main.458cc83c.js"
+  ]
+}
